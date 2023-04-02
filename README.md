@@ -18,13 +18,19 @@ This is introduction page, you can click below links to see our cool project cod
 
 Google Solution Challenge is an annual contest that invites students from GDSC communities to create solutions for local community problems using Google technologies.
 
-You can select the sounds you want the app to recognize.
+We use Flutter to make mobile application, go Fiber to make main server, python Tensorflow to make ML server. Servers run on the Google Cloud Platform.
 
-You can also use a table that gives relative descriptions about how loud certain decibels are, since deaf people may struggle to understand what certain sounds mean solely based on the decibel numbers.
+The app's inspiration came from the Seoul Nong School, a public school for students with hearing disabilities, where a deaf teacher informed us about the hardships of raising a young child while experiencing hearing difficulties.
 
-The app is able to recognize several different types of sounds, such as an infant crying, glass breaking, car horn honking, fire alarms and much more.
+In comparison to other disabilities, deaf people are more likely to get married and raise children. However, the probability of their children not having a hearing disability is higher. This means that deaf parents face more difficulties during parenting. As such, providing deaf parents assistance tools, such as Hearsitter, is extremely important.
 
-You can also receive notifications through smart watches.
+1. You can select the sounds you want the app to recognize.
+
+2. You can also use a table that gives relative descriptions about how loud certain decibels are, since deaf people may struggle to understand what certain sounds mean solely based on the decibel numbers.
+
+3. The app is able to recognize several different types of sounds, such as an infant crying, glass breaking, car horn honking, fire alarms and much more.
+
+4. You can also receive notifications through smart watches.
 
 > [Click to watch demo video on Youtube](https://www.youtube.com/watch?v=pZBiAt61sQo)
 
@@ -55,8 +61,6 @@ You can also receive notifications through smart watches.
 ## 📐 Application Architecture
 
 <img src="https://user-images.githubusercontent.com/88659167/229185945-4c81ce5d-2742-48a5-9392-212e1008565c.png" width=75%>
-
-We use Flutter to make mobile application, go Fiber to make main server, python Tensorflow to make ML server. Servers run on the Google Cloud Platform.
 
 The mobile app sends the sound to server, received from the real-time audio stream in seconds.
 
