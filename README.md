@@ -9,9 +9,11 @@ Hi! **hearsitter** is an app that assists deaf parents who are raising young chi
 This is introduction page, you can click below links to see our cool project code.
 
 **Download**
+
 https://drive.google.com/file/d/1ibGN9mNB-Y1cREDqv4Jab1on9llKtyH_/view?usp=sharing
 
 **Visit Our Website**
+
 https://mumwa.github.io/hearsitter-landingpage/
 <br/>
 
