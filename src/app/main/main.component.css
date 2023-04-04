@@ -1,0 +1,30 @@
+.content {
+  width: 80%;
+  max-width: 1000px;
+  background-color: #4285f4;
+  padding: 40px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+h1 {
+  font-size: 40px;
+  color: white;
+}
+p {
+  color: white;
+}
+button {
+  width: 150px;
+  height: 40px;
+  background-color: white;
+  color: #4285f4;
+  border: none;
+  border-radius: 10px;
+}
+@media (max-width: 800px) {
+  img {
+    display: none;
+  }
+}

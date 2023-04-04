@@ -1,0 +1,17 @@
+.content {
+  width: 80%;
+  max-width: 1000px;
+  padding: 40px;
+  text-align: center;
+  box-sizing: border-box;
+  background-color: #eee;
+}
+iframe {
+  width: 560px;
+  height: 315px;
+}
+@media (max-width: 800px) {
+  iframe {
+    width: 80%;
+  }
+}

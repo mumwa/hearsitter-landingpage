@@ -1,0 +1,25 @@
+.wrapper {
+  width: 100%;
+  min-height: 500px;
+  box-sizing: border-box;
+
+  display: flex;
+  justify-content: center;
+}
+.footer {
+  width: 100%;
+  min-height: 100px;
+  box-sizing: border-box;
+
+  display: flex;
+  justify-content: center;
+}
+.gray {
+  background-color: #eee;
+}
+.main {
+  background-color: #4285f4;
+}
+.black {
+  background-color: #555555;
+}
