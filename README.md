@@ -9,8 +9,8 @@ Hi! **hearsitter** is an app that assists deaf parents who are raising young chi
 This is introduction page, you can click below links to see our cool project code.
 
 
-**Visit Our Website>>**https://hearsitter.site/
-<br/>
+**Visit Our Website>>** https://hearsitter.site  
+
 **ML>>** https://github.com/kimdj98/hearsitter-ML
 
 **Mobile>>** https://github.com/gdsc-ys/hearsitter-flutter
